@@ -3011,7 +3011,7 @@ Click \"Reset\" to reset aircraft heading."</string>
     <string name="manual_playback">Botão Reprodução</string>
     <string name="manual_recording">Butão Gravação</string>
     <string name="manual_shutter">Butão Obturador</string>
-    <string name="mc_campass_limit_height_active"Intereferência na Bússola. Temp Max Altitude: %.1f</string>
+    <string name="mc_campass_limit_height_active">Intereferência na Bússola. Temp Max Altitude: %.1f</string>
     <string name="mc_campass_limit_height_deactive">Auto calibração da Bússola completa. Temp Max Altitude é cancelada</string>
     <string name="mc_exp_description">O eixo X mostra a saída física do stick manipulado. O eixo Y mostra a saída lógica do stick manipulado, que será usado para controlar os motores da aeronave. O intervalo varia de 0,2 a 0,8.</string>
     <string name="mc_limit_height_reachded_reason_gps">Altitude máxima apróximada. Espera que o sinal do GPS volte a normalidade para descer.</string>
