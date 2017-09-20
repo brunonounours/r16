@@ -1,4 +1,4 @@
-teste2<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b>&lt;br />no teu smartphone ou computador lt;br />e escreve este código</string>
     <string name="com_facebook_image_download_unknown_error">Ocorreu um erro enquanto descarregavas a imagem.</string>
@@ -1696,7 +1696,7 @@ teste2<?xml version="1.0" encoding="utf-8"?>
     <string name="fpv_n3_is_not_activite">N3 não activado. Conecta ao DJI Assistant 2.</string>
     <string name="fpv_novice_takeoff_desc">"Modo Pricipiante Activado. A altitude e a distância têm como limite 30m. 
 O modo de Pricipiante pode ser desligado nas definições"</string>
-    <string name="fpv_novice_takeoff_title"Modo Principiante</string>
+    <string name="fpv_novice_takeoff_title">Modo Principiante</string>
     <string name="fpv_off">OFF</string>
     <string name="fpv_osd_aperture">F</string>
     <string name="fpv_osd_color">Cor</string>
@@ -1743,7 +1743,7 @@ O modo de Pricipiante pode ser desligado nas definições"</string>
     <string name="fpv_rc_control_name">Nome Slave：%s</string>
     <string name="fpv_rc_control_title">Control de Gimbal</string>
     <string name="fpv_rc_gain">Gain &amp; Expo Tuning</string>
-    <string name="fpv_rc_master_map_save_tip">Completa antes de salvar/string>
+    <string name="fpv_rc_master_map_save_tip">Completa antes de salvar</string>
     <string name="fpv_rc_wheel_gain">Velocidade gimbal</string>
     <string name="fpv_rcsetting_calibrate_note">Desliga o Drone depois calibra o comando.</string>
     <string name="fpv_rcsetting_cannot_frequency_motorup">O comando não se conecta ao drone com os motores a girar.</string>
@@ -1791,7 +1791,7 @@ O modo de Pricipiante pode ser desligado nas definições"</string>
     <string name="fpv_rcsetting_toggle">Abrir a função Slave</string>
     <string name="fpv_rcsetting_up">Tilt Up</string>
     <string name="fpv_record_ssd_full_tip">SSD Cheio. Video será gravado no cartão SD. Continuar?</string>
-    <string name="fpv_record_ssd_full_tittle">SSD Cheio/string>
+    <string name="fpv_record_ssd_full_tittle">SSD Cheio</string>
     <string name="fpv_redundancy_auto_switch">Auto Switch</string>
     <string name="fpv_redundancy_clear_history">Limpar Histórico</string>
     <string name="fpv_redundancy_force_switch">Forçar Switch</string>
@@ -1808,7 +1808,7 @@ O modo de Pricipiante pode ser desligado nas definições"</string>
     <string name="fpv_redundancy_history_title">Histórico do sistema redundante</string>
     <string name="fpv_redundancy_label_acc">Acelerómetro</string>
     <string name="fpv_redundancy_label_barometer">Barómetro</string>
-    <string name="fpv_redundancy_label_compass"Bússola</string>
+    <string name="fpv_redundancy_label_compass">Bússola</string>
     <string name="fpv_redundancy_label_gps">GPS</string>
     <string name="fpv_redundancy_label_gyro">Giróscopio</string>
     <string name="fpv_redundancy_label_ns">Sistema de Navegação</string>
@@ -1868,7 +1868,7 @@ O modo de Pricipiante pode ser desligado nas definições"</string>
     <string name="fpv_redundancy_sensor_imu_gryo_label">Giróscopio</string>
     <string name="fpv_redundancy_sensor_imu_label">IMU</string>
     <string name="fpv_redundancy_sensor_imu_stat_0">Estado desconhecido</string>
-    <string name="fpv_redundancy_sensor_imu_stat_1">Disconectado/string>
+    <string name="fpv_redundancy_sensor_imu_stat_1">Disconectado</string>
     <string name="fpv_redundancy_sensor_imu_stat_2">A calibrar</string>
     <string name="fpv_redundancy_sensor_imu_stat_3">A calibração falhou</string>
     <string name="fpv_redundancy_sensor_imu_stat_4">Erro de dados</string>
@@ -1919,7 +1919,7 @@ baseia-se na fase da fase de suporte do sinal e emite o posicionamento em 3D de 
     <string name="fpv_switch_battery_pos_desc">Desliga o drone . Espera %s para o ligares de novo.</string>
     <string name="fpv_switch_battery_pos_ok">OK</string>
     <string name="fpv_switch_battery_pos_switch" formatted="false">Switch No. %d and No. %d Bateria</string>
-    <string name="fpv_switch_battery_pos_title">Reposição da Bateria/string>
+    <string name="fpv_switch_battery_pos_title">Reposição da Bateria</string>
     <string name="fpv_tip_atti_state">Sem posição (Atti)</string>
     <string name="fpv_tip_atti_state_in_the_air">Sem posição(Atti)</string>
     <string name="fpv_tip_back_vision_cali">Erro na calibração do sensor traseiro</string>
@@ -1958,7 +1958,7 @@ baseia-se na fase da fase de suporte do sinal e emite o posicionamento em 3D de 
     <string name="fpv_tip_low_rc_power">Bateria do comando fraca</string>
     <string name="fpv_tip_low_rc_signal">Sinal do comando fraco</string>
     <string name="fpv_tip_low_voltage">Fraca bateria Atenção</string>
-    <string name="fpv_tip_mc_error">Erro nos dados do controlo principal/string>
+    <string name="fpv_tip_mc_error">Erro nos dados do controlo principal</string>
     <string name="fpv_tip_mc_sd_mode">Modo de dados de voo. Reinicia o drone para sair</string>
     <string name="fpv_tip_no_video_signal">Sem Sinal</string>
     <string name="fpv_tip_non_gps">Pronto para voar (Vision)</string>
@@ -1994,7 +1994,7 @@ Free Eye é um novo recurso que permite a apresentação de slides de imagem, pr
     <string name="freq_snr_none">Sem dado SNR</string>
     <string name="freq_snr_rssi">RSSI(dBm)</string>
     <string name="gallery_albums">Albums</string>
-    <string name="general_open_geo">Sistema GEO/string>
+    <string name="general_open_geo">Sistema GEO</string>
     <string name="general_open_geo_desc">"Quando o sistema GEo está ativo, tu podes usar as informações mais recentes sobre as restrições de vôo para garantir que o teu vôo não viole os regulamentos de vôo ou a segurança pública. Para mais 
 http://www.dji.com/flysafe/geo-system"</string>
     <string name="general_open_geo_flying_tip">Sistema GEO(Drone tem que descolar)</string>
