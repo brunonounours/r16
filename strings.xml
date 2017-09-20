@@ -3009,8 +3009,8 @@ Click \"Reset\" to reset aircraft heading."</string>
  P (Posição)"</string>
     <string name="manual_gimbal_dial">Gimbal</string>
     <string name="manual_playback">Botão Reprodução</string>
-    <string name="manual_recording">Butão Gravação</string>
-    <string name="manual_shutter">Butão Obturador</string>
+    <string name="manual_recording">Botão Gravação</string>
+    <string name="manual_shutter">Botão Obturador</string>
     <string name="mc_campass_limit_height_active">Intereferência na Bússola. Temp Max Altitude: %.1f</string>
     <string name="mc_campass_limit_height_deactive">Auto calibração da Bússola completa. Temp Max Altitude é cancelada</string>
     <string name="mc_exp_description">O eixo X mostra a saída física do stick manipulado. O eixo Y mostra a saída lógica do stick manipulado, que será usado para controlar os motores da aeronave. O intervalo varia de 0,2 a 0,8.</string>
@@ -3019,15 +3019,15 @@ Click \"Reset\" to reset aircraft heading."</string>
     <string name="mc_param_pack_mode_failed">Impossível entrar no modo de Viajem. Coloca o drone em um sítio plano.</string>
     <string name="mc_param_pack_mode_success">Remove o gimbal do drone. O drone retrai automaticamente o trem de pouso e entra no modo de viagem.</string>
     <string name="mc_param_pack_mode_success_nocamera">A aeronave retrai automaticamente o trem de pouso e entra no modo de viagem.</string>
-    <string name="mc_protect_confirm">Landing gear will not pack up automatically and camera will not be protected if Automatic Landing Gear is disabled.</string>
-    <string name="mc_protect_desc">Intelligent Landing Gear</string>
-    <string name="mc_sd_mode_toptips">Flight Data Mode. Restart aircraft to exit</string>
-    <string name="mc_sensor_adva_motor_up">Cannot calibrate now. Motors are running.</string>
-    <string name="mc_switch_sd_mode">Enter Flight Data Mode</string>
-    <string name="mc_switch_sd_mode_confirm_msg">Connect the aircraft to your PC via the USB port on the body of the aircraft. You can export the available flight data, then restart the aircraft to exit Flight Data Mode.</string>
-    <string name="mc_switch_sd_mode_error">The aircraft failed to enter Flight Data Mode, please try again</string>
-    <string name="mc_switch_sd_mode_error_motor_up">Motors are spinning, cannot enter Flight Data Mode</string>
-    <string name="mc_switch_sd_mode_success">You have successfully entered Flight Data Mode. You can now connect via the aircraft’s USB port and view available data</string>
+    <string name="mc_protect_confirm">O equipamento de desembarque não será embalado automaticamente e a câmera não será protegida se o Deslocamento automático estiver desactivado.</string>
+    <string name="mc_protect_desc">Modo de Pouso Inteligente</string>
+    <string name="mc_sd_mode_toptips">Modo de dados de voo. Reinicia o drone para sair</string>
+    <string name="mc_sensor_adva_motor_up">Erro na Calibração. Os motores estão a girar.</string>
+    <string name="mc_switch_sd_mode">Entrar no Modo de dados de voo</string>
+    <string name="mc_switch_sd_mode_confirm_msg">Conecta o drone ao pc via cabo usb. Podes depois exportar os dados de voo.</string>
+    <string name="mc_switch_sd_mode_error">O drone falhou a entrar no modo de dados de voo, tenta de novo</string>
+    <string name="mc_switch_sd_mode_error_motor_up">Os motores estão a girar, Não podes entrar no modo de dados de voo</string>
+    <string name="mc_switch_sd_mode_success">Entras-te no modo de dados de voo. Liga agora o cabo do drone ao pc para veres os dados de voo.</string>
     <string name="mc_switching_sd_mode">Entering Flight Data Mode…Please wait.</string>
     <string name="medal_director_exp_unit">Edited Videos</string>
     <string name="medal_director_name">Level %1$d Director</string>
