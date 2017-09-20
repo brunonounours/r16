@@ -2993,28 +2993,28 @@ Click \"Reset\" to reset aircraft heading."</string>
     <string name="liveshare_youtube_live_stream_status_label_05">The stream is live now. Tap \"Stop Streaming\" to close the live stream</string>
     <string name="liveshare_youtube_live_stream_stop_remind">Are you sure you want to close YouTube Live Stream?</string>
     <string name="lp_android_version_toolow_tip"> Osmo Mobile only supports Android 4.4 or above. </string>
-    <string name="lp_ble_device_connect_txt">Connect</string>
-    <string name="lp_ble_device_connected">Connected</string>
-    <string name="lp_ble_device_connecting">Connecting</string>
-    <string name="lp_ble_device_list_txt">Device List</string>
+    <string name="lp_ble_device_connect_txt">Conectar</string>
+    <string name="lp_ble_device_connected">Conectar</string>
+    <string name="lp_ble_device_connecting">A conectar</string>
+    <string name="lp_ble_device_list_txt">Lista de dispositivos</string>
     <string name="lp_ble_name">Bluetooth</string>
-    <string name="main_back_tip">Press again to exit.</string>
-    <string name="main_btn_text_store">STORE</string>
-    <string name="mainframe_topbar_listview_item_scan">Scan QR</string>
+    <string name="main_back_tip">Clica novamente para saires.</string>
+    <string name="main_btn_text_store">LOJA</string>
+    <string name="mainframe_topbar_listview_item_scan">Digitaliza QR</string>
     <string name="mainframe_topbar_listview_item_tutorial">Tutorial</string>
-    <string name="manual_camera_setting_dial">Camera Setting Dial</string>
-    <string name="manual_flight_mode_switch">"From left to right: 
- F (Function) 
+    <string name="manual_camera_setting_dial">Definição de Camera</string>
+    <string name="manual_flight_mode_switch">"Da esquerda para a direita: 
+ F (Função) 
  A (Attitude) 
- P (Position)"</string>
-    <string name="manual_gimbal_dial">Gimbal Dial</string>
-    <string name="manual_playback">Playback Button</string>
-    <string name="manual_recording">Recoding Button</string>
-    <string name="manual_shutter">Shutter Button</string>
-    <string name="mc_campass_limit_height_active">Compass Interfered. Temp Max Altitude: %.1f</string>
-    <string name="mc_campass_limit_height_deactive">Compass Auto Calibration Complete. Temp Max Altitude is cancelled</string>
-    <string name="mc_exp_description">The X-axis shows the physical output of the manipulated stick. The Y-axis shows the logic output of the manipulated stick, which will be used to control the aircraft’s motors. The range goes from 0.2 to 0.8.</string>
-    <string name="mc_limit_height_reachded_reason_gps">Max Altitude Approached. Wait for the GPS satellite signal back to normal to ascend.</string>
+ P (Posição)"</string>
+    <string name="manual_gimbal_dial">Gimbal</string>
+    <string name="manual_playback">Botão Reprodução</string>
+    <string name="manual_recording">Butão Gravação</string>
+    <string name="manual_shutter">Butão Obturador</string>
+    <string name="mc_campass_limit_height_active"Intereferência na Bússola. Temp Max Altitude: %.1f</string>
+    <string name="mc_campass_limit_height_deactive">Auto calibração da Bússola completa. Temp Max Altitude é cancelada</string>
+    <string name="mc_exp_description">O eixo X mostra a saída física do stick manipulado. O eixo Y mostra a saída lógica do stick manipulado, que será usado para controlar os motores da aeronave. O intervalo varia de 0,2 a 0,8.</string>
+    <string name="mc_limit_height_reachded_reason_gps">Altitude máxima apróximada. Espera que o sinal do GPS volte a normalidade para descer.</string>
     <string name="mc_limit_height_reached_reason_campass">Temp Max Altitude Approached. Wait for the Compass Auto Calibration complete or calibrate compass manually to.</string>
     <string name="mc_param_pack_mode_failed">Unable to enter Travel Mode. Place the aircraft on a flat, hard surface and remove the gimbal then try again.</string>
     <string name="mc_param_pack_mode_success">Remove the gimbal from the aircraft. The aircraft will automatically retract the landing gear and enter the Travel Mode.</string>
