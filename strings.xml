@@ -3015,10 +3015,10 @@ Click \"Reset\" to reset aircraft heading."</string>
     <string name="mc_campass_limit_height_deactive">Auto calibração da Bússola completa. Temp Max Altitude é cancelada</string>
     <string name="mc_exp_description">O eixo X mostra a saída física do stick manipulado. O eixo Y mostra a saída lógica do stick manipulado, que será usado para controlar os motores da aeronave. O intervalo varia de 0,2 a 0,8.</string>
     <string name="mc_limit_height_reachded_reason_gps">Altitude máxima apróximada. Espera que o sinal do GPS volte a normalidade para descer.</string>
-    <string name="mc_limit_height_reached_reason_campass">Temp Max Altitude Approached. Wait for the Compass Auto Calibration complete or calibrate compass manually to.</string>
-    <string name="mc_param_pack_mode_failed">Unable to enter Travel Mode. Place the aircraft on a flat, hard surface and remove the gimbal then try again.</string>
-    <string name="mc_param_pack_mode_success">Remove the gimbal from the aircraft. The aircraft will automatically retract the landing gear and enter the Travel Mode.</string>
-    <string name="mc_param_pack_mode_success_nocamera">The aircraft will automatically retract the landing gear and enter the Travel Mode.</string>
+    <string name="mc_limit_height_reached_reason_campass">Temp Max Altitude aproximada. Espera que a auto calibração da bússola complete.</string>
+    <string name="mc_param_pack_mode_failed">Impossível entrar no modo de Viajem. Coloca o drone em um sítio plano.</string>
+    <string name="mc_param_pack_mode_success">Remove o gimbal do drone. O drone retrai automaticamente o trem de pouso e entra no modo de viagem.</string>
+    <string name="mc_param_pack_mode_success_nocamera">A aeronave retrai automaticamente o trem de pouso e entra no modo de viagem.</string>
     <string name="mc_protect_confirm">Landing gear will not pack up automatically and camera will not be protected if Automatic Landing Gear is disabled.</string>
     <string name="mc_protect_desc">Intelligent Landing Gear</string>
     <string name="mc_sd_mode_toptips">Flight Data Mode. Restart aircraft to exit</string>
